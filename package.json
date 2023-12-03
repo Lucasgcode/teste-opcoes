@@ -1,5 +1,5 @@
 {
-  "name": "clone-tabnews",
+  "name": "teste-opcoes",
   "version": "1.0.0",
   "description": "Clone do tabnews para estudo.",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write ."
   },
-  "author": "",
+  "author": "Lucas Gomes",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
